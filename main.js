@@ -1,3 +1,5 @@
+"use strict"
+
 function tocarSom(seletorAudio){
     const elemento = document.querySelector(seletorAudio);
 
