@@ -1,2 +1,2 @@
 # alura-javascript-web
-Estudo da integração JS-Web pela plataforma Alura
+Learning JS-Web integration through the Alura course platform
