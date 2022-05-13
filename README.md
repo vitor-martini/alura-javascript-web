@@ -1,2 +1,2 @@
 # alura-javascript-web
-Learning JS-Web integration through the Alura course platform
+Learning JS for web through the Alura course platform
